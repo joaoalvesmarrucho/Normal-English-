@@ -5,7 +5,7 @@ Chrome Extension link: https://chrome.google.com/webstore/detail/normal-english-
 
 # Acknowledging Issues
 ## The word "Normal"
-We have considered using the another word instead of "Normal" but for now it seems like the reasons for using "Normal" outwheight the reasons not to.
+We have considered using another word instead of "Normal" but for now it seems like the reasons for using "Normal" outwheight the reasons not to.
 
 Alternative outputs: "Undefined", "Person", " "(empty string so that "White people" becomes just "people")
 
