@@ -1,5 +1,3 @@
-
-
 //content.js
 chrome.runtime.onMessage.addListener(
   function(request, sender, sendResponse) {
@@ -43,6 +41,10 @@ chrome.runtime.onMessage.addListener(
           gipsies: 'normal people',  
           Irish: 'Normal',
           irish: 'normal',
+          Latino: 'Normal',
+          latino: 'normal',
+          Latinos: 'Normal People',
+          latinos: 'normal people', 
           Negro: 'Normal',
           negro: 'normal',
           Nigga: 'Normal',
@@ -54,7 +56,11 @@ chrome.runtime.onMessage.addListener(
           Whites: 'Normal People',
           whites: 'normal people', 
           Wypipo: 'Normal people',
-          wypipo: 'normal people', 
+          wypipo: 'normal people',
+          Pole: 'Normal',
+          pole: 'normal',
+          Poles: 'Normal People',
+          poles: 'normal people',  
           Romani: 'Normal',
           romani: 'normal',
           Romanis: 'Normal People',
