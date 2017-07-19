@@ -21,4 +21,4 @@ The content.js file holds the array of Key Pairs and needs manual input for all 
 ## Other possible improvements
 1) Allow the user to add any word to be array (using Local storage)
 
-2) Allow for an optional "Always on" so that the changes are made when the document (designing an input panel on the  popup.html)
+2) Allow for an optional "Always on" so that the changes are made as soon as the webpage is loaded (designing an input panel on the  popup.html)
