@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "Normal (english version)",
+  "version": "0.0.0.5",
+  "description": "Useful to read some texts and identify hidden systemic racism. Turns various terms used to define ethnicities into 'normal'.",
+  "icons": {"128": "icon.png"},
+
+  "background": {
+    "scripts": ["background.js"],
+    "permissions": [ "webNavigation", "*://*/*" ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["jquery-3.2.1.min.js", "content.js"]
+    }
+  ],
+  "browser_action": {
+    "default_title": "Useful to read some texts and identify hidden systemic racism. Turns aboriginal, asian, black, caucasian, gipsy, irish, latino, white, romani and other terms to define ethnicities into 'normal'. Leave a comment if you want to add your own race/ethnicity and we will try to add it as soon as possible.",
+    "default_icon": "icon.png"
+  }
+}
