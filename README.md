@@ -19,6 +19,6 @@ It doesn’t recognise the importance of the notion of diversity.
 The content.js file holds the array of Key Pairs and needs manual input for all scenarios (plurals and different letter cases). We are sure both plural and smallcase/uppercase converstions could be automated. let us know if you  fix this please.
 
 ## Other possible improvements
-1) Allow the user to add any word to be added to the array
+1) Allow the user to add any word to be array (using Local storage)
 
 2) Allow for an optional "Always on" so that the changes are made when the document (designing an input panel on the  popup.html)
