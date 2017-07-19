@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Normal (english version)",
-  "version": "0.0.0.5",
+  "version": "0.0.0.6",
   "description": "Useful to read some texts and identify hidden systemic racism. Turns various terms used to define ethnicities into 'normal'.",
   "icons": {"128": "icon.png"},
 
