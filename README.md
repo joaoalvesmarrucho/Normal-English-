@@ -6,9 +6,12 @@ Chrome Extension link: https://chrome.google.com/webstore/detail/normal-english-
 # Acknowledging Issues
 ## The word "Normal"
 We have considered using the another word instead of "Normal" but for now it seems like the reasons for using "Normal" outwheight the reasons not to.
+
 Alternative outputs: "Undefined", "Person", " "(empty string so that "White people" becomes just "people")
+
 Pros: 
 Readability: it doesn't interrupt the normal flow / It strengthens the idea we are all the same
+
 Cons: 
 It doesn’t recognise the importance of the notion of diversity. 
 
