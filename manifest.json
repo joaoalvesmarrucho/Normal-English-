@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Normal (english version)",
-  "version": "0.0.0.6",
-  "description": "Useful to read some texts and identify hidden systemic racism. Turns various terms used to define ethnicities into 'normal'.",
+  "name": "Ordinary (english version)",
+  "version": "0.0.0.8",
+  "description": "Click the Icon to identify hidden systemic racism on texts. Turns various terms used to define ethnicities into 'Ordinary'.",
   "icons": {"128": "icon.png"},
 
   "background": {
@@ -18,7 +18,7 @@
     }
   ],
   "browser_action": {
-    "default_title": "Useful to read some texts and identify hidden systemic racism. Turns aboriginal, asian, black, caucasian, gipsy, irish, latino, white, romani and other terms to define ethnicities into 'normal'. Leave a comment if you want to add your own race/ethnicity and we will try to add it as soon as possible.",
+    "default_title": "Click on the Ordinary Chrome extension Icon to run! Useful to read some texts and identify hidden systemic racism. Turns aboriginal, asian, black, caucasian, gipsy, irish, latino, white, romani and other terms to define ethnicities into 'Ordinary'. Leave a comment if you want to add your own race/ethnicity and we will try to add it as soon as possible.",
     "default_icon": "icon.png"
   }
 }
