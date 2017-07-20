@@ -12,9 +12,9 @@ Alternative outputs: "Undefined", "Person", " "(empty string so that "White peop
 By chosing "ordinary" we hope to match the syntactic function of the racial adjective, maintaining the reading flow, while strengthening the idea that our skin colour should not make us privileged nor underprivileged.
 
 ## Plurals and Letter Case 
-The content.js file holds the array of Key Pairs and needs manual input for all scenarios (plurals and different letter cases). We are sure both plural and smallcase/uppercase converstions could be automated. let us know if you  fix this please.
+The content.js file holds the array of Key:Pair's and needs manual input for all scenarios (plurals and different letter cases). We are sure both plural and smallcase/uppercase converstions could be automated. Let us know if you  fix this please.
 
 ## Other possible improvements
-1) Allow the user to add any word to be array (using Local storage)
+1) Allow the user to add any word to the array (using Local storage)
 
-2) Allow for an optional "Always on" so that the changes are made as soon as the webpage is loaded (designing an input panel on the  popup.html)
+2) Allow for an optional "Always on" so that the changes are made as soon as the webpage is loaded (designing an input panel on the popup.html)
